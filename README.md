@@ -1,2 +1,0 @@
-# eNgimatic
-Template Adaptive
